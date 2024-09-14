@@ -6,3 +6,5 @@
 ###### This is h6 Header
 
 // I have added the 6 types of headings in this file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
